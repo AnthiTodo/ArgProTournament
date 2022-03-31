@@ -1,0 +1,53 @@
+body {
+    margin: 0.5;
+    padding:10em 15em 15em 15em;
+    background-color:#0D1131;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color:#d2fec6;
+}
+
+#nombre{
+    color: #d2fec6;
+    border-right-color: #0ff;
+    border-left-color: #181d3d;
+    border-top-color: #181d3d;
+    border-bottom-color: #0ff
+}
+
+#contraseña{
+    color: #d2fec6;
+    border-right-color: #0ff;
+    border-left-color: #181d3d;
+    border-top-color: #181d3d;
+    border-bottom-color: #0ff
+}
+
+
+.neon{
+    color: #fff;
+text-shadow:
+0 0 5px #fff,
+0 0 10px #0ff,
+0 0 15px #0ff,
+0 0 20px #0ff,
+0 0 40px #0ff,
+0 0 45px #0D1131,
+0 0 50px #0D1131,
+0 0 75px #0D1131;
+padding-bottom: 1.5em;
+}
+
+.subtitle{
+    padding-bottom: 3em;
+}
+
+.boton{
+    color: #fff;
+    border-color: #0D1131;
+}
