@@ -1,13 +1,13 @@
-body{
+body {
+  margin: 0.5;
+  padding:10em 15em 15em 15em;
+  background-color:#0D1131;
   font-family: 'Jura', sans-serif;
-   color: #9a42ff ;
-   background-color:#0D1131;
-   margin: 0.5;
-   padding:10em 15em 15em 15em;
-   text-align: center;
-   position: fixed;
-   top: 0;
-   bottom: 0;
-   left: 0;
-   right: 0;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color:#9a42ff;
 }
